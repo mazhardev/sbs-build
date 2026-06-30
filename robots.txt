@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+Host: https://www.smartbrainsolutions.com/
+Sitemap: https://www.smartbrainsolutions.com/sitemap.xml
