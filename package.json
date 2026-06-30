@@ -1,0 +1,22 @@
+{
+  "name": "smart-brain-solutions-build",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "deploy-build-only": "powershell -NoProfile -ExecutionPolicy Bypass -File ./scripts/deploy-build-only.ps1",
+    "deploy-build-only-mac": "bash ./scripts/deploy-build-only.sh",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "16.2.9",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {},
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}
