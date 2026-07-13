@@ -4,5 +4,5 @@ Disallow: /api/
 Disallow: /admin/
 Disallow: /private/
 
-Host: https://www.smartbrainsolutions.com/
-Sitemap: https://www.smartbrainsolutions.com/sitemap.xml
+Host: https://smartbrainsolution.com/
+Sitemap: https://smartbrainsolution.com/sitemap.xml
